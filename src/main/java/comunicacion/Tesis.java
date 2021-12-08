@@ -34,8 +34,8 @@ public class Tesis extends Escrito {
 	public String getIdea() {
 		return idea;}
 	
-	public int getArgumentos() {
-		return argumentos.length;}
+	public String[] getArgumentos() {
+		return argumentos;}
 	
 	public String getConclusion() {
 		return conclusion;}
